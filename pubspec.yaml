@@ -1,7 +1,8 @@
 name: scrambletext
 description: flutter awesome textscramble.
 version: 0.0.1
-homepage:
+repository: https://github.com/analog-sombra/scrambletext
+homepage: https://github.com/analog-sombra/scrambletext
 
 environment:
   sdk: '>=2.18.5 <3.0.0'
