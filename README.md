@@ -8,7 +8,6 @@ A simple and great text scramble plugin in flutter
 
 ## Features
 
-- Import a HTML file and watch it magically convert to Markdown
 - Define your custom word for scramble
 - Multipal text at once
 - Autoloop is enable by default
